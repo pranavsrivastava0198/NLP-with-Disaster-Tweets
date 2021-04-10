@@ -7,4 +7,4 @@ The ubiquitousness of smartphones enables people to announce an emergency they�
 ### The program uses a Machine Learning model that predicts which Tweets are about real disasters and which one’s are not. 
 
 ##### Acknowledgments: 
-This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
+This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website.
